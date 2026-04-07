@@ -1,14 +1,7 @@
-# Hi, I'm Krzysiek! 👋
+3rd-year Applied Computer Science student at Wrocław University of Science and Technology (Politechnika Wrocławska). Programming since 2017.
 
-### 🙋‍♂️ About Me
-3rd-year Applied Computer Science student at Wrocław University of Science and Technology (Politechnika Wrocławska). Passionate about programming and computers since primary school.
-
-Programmer by day, musician by night 🥰🎵🎶
-
----
 
 ### 🛠 Tech Stack & Tools
-Over nearly a decade of my programming journey, I have gained experience with:
 
 - **Languages:**
 
@@ -19,12 +12,7 @@ Over nearly a decade of my programming journey, I have gained experience with:
 - Object-Oriented Programming, Data Engineering, Linux (Bash) 
 
 
-I'm currently working on developing my personal skills and putting newly learned concepts from college into practice through Python mini-projects.
-
----
-
-### 📫 Get in touch with me:
-- **e-mail:** krzysztof.nosek91@gmail.com
+Currently working on developing my personal skills and putting newly learned concepts from college into practice through Python mini-projects.
 
 <!--
 **krzysieknosek/krzysieknosek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
